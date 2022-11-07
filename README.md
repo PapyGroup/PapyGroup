@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @PapyGroup
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-PapyGroup/PapyGroup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Salut, Je suis le GitHub officiel de la commuanuté Papy Brossard. 
+- 👀 La communauté développe sur le jeu GTA V (FiveM et Redm) principalement mais pas que ! 
+- 💞️ Merci à toutes les personnes qui nous soutiennent depuis déjà plus de 3 ans ! 
+- 📫 Vous pouvez me contacter en message privé sur Discord : ABrossard#8517
